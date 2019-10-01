@@ -1,0 +1,2 @@
+# localForageWithSessionStorage
+Implementation of localforage with sessionStorage
